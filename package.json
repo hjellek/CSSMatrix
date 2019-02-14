@@ -1,0 +1,12 @@
+{
+  "author": "Jonathan Brennecke",
+  "name": "cssmatrix",
+  "description": "A CSSMatrix shim for 3D transformation matrices",
+  "version": "1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonbrennecke/CSSMatrix"
+  },
+  "main": "cssmatrix.js"
+}
